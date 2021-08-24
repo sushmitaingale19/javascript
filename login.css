@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    background-image: url("back.jpg");
+    height: 700px;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
