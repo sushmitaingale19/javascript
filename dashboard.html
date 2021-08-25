@@ -12,7 +12,14 @@
   </head>
   <body>
     <h1>Hello, Welcome to dashboard</h1>
+    Welcome..<span id="result"></span>
+    <script>
+      document.getElementById("result").innerHTML=localStorage.getItem("textvalue");
+    </script>
 
+<div class="d-grid gap-2 col-3 mx-auto mt-3">
+  <a href="login.html"><button class="btn btn-dark ">LogOut</button></a>
+</div>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
