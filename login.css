@@ -11,6 +11,9 @@
     background-repeat: no-repeat;
     
 }
+body{
+    overflow: hidden;
+}
 .err{
     color: red;
 }

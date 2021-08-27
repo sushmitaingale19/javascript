@@ -1,0 +1,21 @@
+{
+    "date": "thu, 26 dec 2021 2:15:00 GMT",
+    "people": [
+            {
+                "email": "sushmita@gmail.com",
+                "password": "qwerty"
+            },
+            {
+                "email": "neeta@gmail.com",
+                "password": "qwerty@1"
+            },
+            {
+                "email": "shubham@gmail.com",
+                "password": "shubu"
+            },
+            {
+                "email": "shivani@gmail.com",
+                "password": "shivu"
+            }
+    ]
+}
